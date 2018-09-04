@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/HansenD10/Spotify-React#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0"
   }
 }
